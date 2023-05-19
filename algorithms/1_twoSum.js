@@ -10,5 +10,3 @@ const twoSum = (nums, target) => {
     
     return [];
 }
-
-twoSum([2,5,5,11],10);
