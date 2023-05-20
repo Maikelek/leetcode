@@ -7,8 +7,6 @@
 |  1  |     Two Sum         | Javascript |    Easy    |
 |  9  | Is Palindrome       | Javascript |    Easy    |
 | 58  | Length of Last Word | Javascript |    Easy    |
-| 58  | Length of Last Word | Javascript |    Easy    |
-| 217 | Contains Duplicate  | Javascript |    Easy    |
 | 217 | Contains Duplicate  | Javascript |    Easy    |
 | 242 | Valid Anagram       | Javascript |    Easy    |
 
