@@ -4,7 +4,7 @@ const containsDuplicate = (nums) => {
     let swap = 1;
     
     for (let i = 0; i < nums.length ; i++ ) {
-        if ( sorted[i] == sorted[swap] ) {
+        if ( sorted[i] === sorted[swap] ) {
             return true
         }
         swap++;
