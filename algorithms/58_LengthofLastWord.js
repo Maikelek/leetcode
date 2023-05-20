@@ -2,7 +2,7 @@ const lengthOfLastWord = (s) => {
     const textTrimmed = s.trim();
     let counter = 0;
     
-    for (i = 0; i < textTrimmed.length; i++) {
+    for (let i = 0; i < textTrimmed.length; i++) {
         if (textTrimmed[i] != " "){
             counter++;
         }
