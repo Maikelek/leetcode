@@ -11,6 +11,7 @@
 | 69   | Sqrt(x)                 | Javascript |    Easy    |
 | 217  | Contains Duplicate      | Javascript |    Easy    |
 | 242  | Valid Anagram           | Javascript |    Easy    |
+| 1480 | Running Sum of 1d Array | Javascript |    Easy    |
 | 1672 | Richest Customer Wealth | Javascript |    Easy    |
 
 
