@@ -1,4 +1,4 @@
-let numIdenticalPairs = (nums) => {
+const numIdenticalPairs = (nums) => {
     let counter = 0;
     
     for (let i = 0; i < nums.length; i++) {

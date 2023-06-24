@@ -15,5 +15,6 @@
 | 1480 | Running Sum of 1d Array                             | Javascript |    Easy    |
 | 1512 | Number of Good Pairs                                | Javascript |    Easy    |
 | 1672 | Richest Customer Wealth                             | Javascript |    Easy    |
+| 2652 | Sum Multiples                                       | Javascript |    Easy    |
 
 
