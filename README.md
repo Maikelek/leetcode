@@ -12,6 +12,7 @@
 | 217  | Contains Duplicate                                  | Javascript |    Easy    |
 | 242  | Valid Anagram                                       | Javascript |    Easy    |
 | 1365 | How Many Numbers Are Smaller Than the Current Number| Javascript |    Easy    |
+| 1431 | Kids With the Greatest Number of Candies            | Javascript |    Easy    |
 | 1480 | Running Sum of 1d Array                             | Javascript |    Easy    |
 | 1512 | Number of Good Pairs                                | Javascript |    Easy    |
 | 1672 | Richest Customer Wealth                             | Javascript |    Easy    |
