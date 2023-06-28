@@ -16,6 +16,7 @@
 | 1431 | Kids With the Greatest Number of Candies            | Javascript |    Easy    |
 | 1480 | Running Sum of 1d Array                             | Javascript |    Easy    |
 | 1512 | Number of Good Pairs                                | Javascript |    Easy    |
+| 1662 | Check If Two String Arrays are Equivalent           | Javascript |    Easy    |
 | 1672 | Richest Customer Wealth                             | Javascript |    Easy    |
 | 1773 | Count Items Matching a Rule                         | Javascript |    Easy    |
 | 2011 | Final Value of Variable After Performing Operations | Javascript |    Easy    |
