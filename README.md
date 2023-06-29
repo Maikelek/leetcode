@@ -19,6 +19,7 @@
 | 1662 | Check If Two String Arrays are Equivalent           | Javascript |    Easy    |
 | 1672 | Richest Customer Wealth                             | Javascript |    Easy    |
 | 1773 | Count Items Matching a Rule                         | Javascript |    Easy    |
+| 1832 | Check if the Sentence Is Pangram                    | Javascript |    Easy    |
 | 2011 | Final Value of Variable After Performing Operations | Javascript |    Easy    |
 | 2114 | Maximum Number of Words Found in Sentences          | Javascript |    Easy    |
 | 2652 | Sum Multiples                                       | Javascript |    Easy    |
