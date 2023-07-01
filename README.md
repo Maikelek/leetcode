@@ -21,6 +21,7 @@
 | 1773 | Count Items Matching a Rule                          | Javascript |    Easy    |
 | 1816 | Truncate Sentence                                    | Javascript |    Easy    |
 | 1832 | Check if the Sentence Is Pangram                     | Javascript |    Easy    |
+| 1859 | Sorting the Sentence                                 | Javascript |    Easy    |
 | 2011 | Final Value of Variable After Performing Operations  | Javascript |    Easy    |
 | 2114 | Maximum Number of Words Found in Sentences           | Javascript |    Easy    |
 | 2652 | Sum Multiples                                        | Javascript |    Easy    |
