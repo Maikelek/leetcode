@@ -26,6 +26,7 @@
 | 1859 | Sorting the Sentence                                 | Javascript |    Easy    |
 | 2011 | Final Value of Variable After Performing Operations  | Javascript |    Easy    |
 | 2114 | Maximum Number of Words Found in Sentences           | Javascript |    Easy    |
+| 2469 | Convert the Temperature                              | Javascript |    Easy    |
 | 2652 | Sum Multiples                                        | Javascript |    Easy    |
 
 
