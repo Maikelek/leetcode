@@ -29,6 +29,7 @@
 | 2114 | Maximum Number of Words Found in Sentences           | Javascript |    Easy    |
 | 2235 | Add Two Integers                                     | Javascript |    Easy    |
 | 2413 | Smallest Even Multiple                               | Javascript |    Easy    |
+| 2418 | Sort the People                                      | Javascript |    Easy    |
 | 2469 | Convert the Temperature                              | Javascript |    Easy    |
 | 2652 | Sum Multiples                                        | Javascript |    Easy    |
 
