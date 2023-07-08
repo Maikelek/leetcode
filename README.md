@@ -14,6 +14,7 @@
 | 557  | Reverse Words in a String III                              | Javascript |    Easy    |
 | 709  | To Lower Case                                              | Javascript |    Easy    |
 | 1108 | Defanging an IP Address                                    | Javascript |    Easy    |
+| 1281 | Subtract the Product and Sum of Digits of an Integer       | Javascript |    Easy    |
 | 1342 | Number of Steps to Reduce a Number to Zero                 | Javascript |    Easy    |
 | 1365 | How Many Numbers Are Smaller Than the Current Number       | Javascript |    Easy    |
 | 1431 | Kids With the Greatest Number of Candies                   | Javascript |    Easy    |
