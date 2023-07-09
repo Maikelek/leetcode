@@ -32,6 +32,7 @@
 | 2413 | Smallest Even Multiple                                     | Javascript |    Easy    |
 | 2418 | Sort the People                                            | Javascript |    Easy    |
 | 2469 | Convert the Temperature                                    | Javascript |    Easy    |
+| 2520 | Count the Digits That Divide a Number                      | Javascript |    Easy    |
 | 2535 | Difference Between Element Sum and Digit Sum of an Array   | Javascript |    Easy    |
 | 2652 | Sum Multiples                                              | Javascript |    Easy    |
 
