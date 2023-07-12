@@ -13,6 +13,7 @@
 | 242  | Valid Anagram                                              | Javascript |    Easy    |
 | 557  | Reverse Words in a String III                              | Javascript |    Easy    |
 | 709  | To Lower Case                                              | Javascript |    Easy    |
+| 728  | Self Dividing Numbers                                      | Javascript |    Easy    |
 | 1108 | Defanging an IP Address                                    | Javascript |    Easy    |
 | 1281 | Subtract the Product and Sum of Digits of an Integer       | Javascript |    Easy    |
 | 1323 | Maximum 69 Number                                          | Javascript |    Easy    |
