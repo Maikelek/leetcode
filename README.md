@@ -29,6 +29,7 @@
 | 1816 | Truncate Sentence                                          | Javascript |    Easy    |
 | 1832 | Check if the Sentence Is Pangram                           | Javascript |    Easy    |
 | 1859 | Sorting the Sentence                                       | Javascript |    Easy    |
+| 1929 | Concatenation of Array                                     | Javascript |    Easy    |
 | 2011 | Final Value of Variable After Performing Operations        | Javascript |    Easy    |
 | 2114 | Maximum Number of Words Found in Sentences                 | Javascript |    Easy    |
 | 2235 | Add Two Integers                                           | Javascript |    Easy    |
