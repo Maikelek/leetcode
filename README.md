@@ -40,3 +40,4 @@
 | 2520 | Count the Digits That Divide a Number                      | Javascript |    Easy    |
 | 2535 | Difference Between Element Sum and Digit Sum of an Array   | Javascript |    Easy    |
 | 2652 | Sum Multiples                                              | Javascript |    Easy    |
+| 2656 | Maximum Sum With Exactly K Elements                        | Javascript |    Easy    |
