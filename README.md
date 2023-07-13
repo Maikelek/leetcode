@@ -11,6 +11,7 @@
 | 69   | Sqrt(x)                                                    | Javascript |    Easy    |
 | 217  | Contains Duplicate                                         | Javascript |    Easy    |
 | 242  | Valid Anagram                                              | Javascript |    Easy    |
+| 412  | Fizz Buzz                                                  | Javascript |    Easy    |
 | 557  | Reverse Words in a String III                              | Javascript |    Easy    |
 | 709  | To Lower Case                                              | Javascript |    Easy    |
 | 728  | Self Dividing Numbers                                      | Javascript |    Easy    |
