@@ -21,6 +21,7 @@
 | 1342 | Number of Steps to Reduce a Number to Zero                 | Javascript |    Easy    |
 | 1365 | How Many Numbers Are Smaller Than the Current Number       | Javascript |    Easy    |
 | 1431 | Kids With the Greatest Number of Candies                   | Javascript |    Easy    |
+| 1470 | Shuffle the Array                                          | Javascript |    Easy    |
 | 1480 | Running Sum of 1d Array                                    | Javascript |    Easy    |
 | 1512 | Number of Good Pairs                                       | Javascript |    Easy    |
 | 1528 | Shuffle String                                             | Javascript |    Easy    |
