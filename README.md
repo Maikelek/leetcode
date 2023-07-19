@@ -10,6 +10,7 @@
 | 58   | Length of Last Word                                        | Javascript |    Easy    |
 | 69   | Sqrt(x)                                                    | Javascript |    Easy    |
 | 217  | Contains Duplicate                                         | Javascript |    Easy    |
+| 344  | Reverse String                                             | Javascript |    Easy    |
 | 242  | Valid Anagram                                              | Javascript |    Easy    |
 | 412  | Fizz Buzz                                                  | Javascript |    Easy    |
 | 557  | Reverse Words in a String III                              | Javascript |    Easy    |
