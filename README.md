@@ -8,6 +8,7 @@
 |  9   | Is Palindrome                                              | Javascript |    Easy    |
 | 49   | Group Anagrams                                             | Javascript |   Medium   |
 | 58   | Length of Last Word                                        | Javascript |    Easy    |
+| 66   | Plus One                                                   | Javascript |    Easy    |
 | 69   | Sqrt(x)                                                    | Javascript |    Easy    |
 | 217  | Contains Duplicate                                         | Javascript |    Easy    |
 | 344  | Reverse String                                             | Javascript |    Easy    |
