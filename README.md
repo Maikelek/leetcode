@@ -30,6 +30,7 @@
 | 1662 | Check If Two String Arrays are Equivalent                  | Javascript |    Easy    |
 | 1672 | Richest Customer Wealth                                    | Javascript |    Easy    |
 | 1678 | Goal Parser Interpretation                                 | Javascript |    Easy    |
+| 1688 | Count of Matches in Tournament                             | Javascript |    Easy    |
 | 1773 | Count Items Matching a Rule                                | Javascript |    Easy    |
 | 1812 | Determine Color of a Chessboard Square                     | Javascript |    Easy    |
 | 1816 | Truncate Sentence                                          | Javascript |    Easy    |
