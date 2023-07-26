@@ -13,6 +13,7 @@
 | 217  | Contains Duplicate                                         | Javascript |    Easy    |
 | 344  | Reverse String                                             | Javascript |    Easy    |
 | 242  | Valid Anagram                                              | Javascript |    Easy    |
+| 268  | Missing Number                                             | Javascript |    Easy    |
 | 412  | Fizz Buzz                                                  | Javascript |    Easy    |
 | 557  | Reverse Words in a String III                              | Javascript |    Easy    |
 | 709  | To Lower Case                                              | Javascript |    Easy    |
