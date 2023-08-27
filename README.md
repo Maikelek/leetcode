@@ -1,6 +1,12 @@
 # Leetcode
 
-### Personal solutions of leetcode problems
+## About the Repository
+
+This repository is a reflection of my journey to enhance my programming skills and deepen my understanding of algorithms and data structures. Each solution represents a unique challenge that I've worked through, showcasing my problem-solving strategies.
+
+--- 
+
+## Solutions:
 
 | ID   |       Title                                                |  Language  | Difficulty |
 |----: |:-----------------:                                         |:----------:|:----------:|
