@@ -12,6 +12,7 @@ This repository is a reflection of my journey to enhance my programming skills a
 |----: |:-----------------:                                         |:----------:|:----------:|
 |  1   |     Two Sum                                                | Javascript |    Easy    |
 |  9   | Is Palindrome                                              | Javascript |    Easy    |
+| 14   | Longest Common Prefix                                      | Javascript |    Easy    |
 | 49   | Group Anagrams                                             | Javascript |   Medium   |
 | 58   | Length of Last Word                                        | Javascript |    Easy    |
 | 66   | Plus One                                                   | Javascript |    Easy    |
