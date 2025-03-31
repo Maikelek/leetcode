@@ -18,6 +18,7 @@ This repository is a reflection of my journey to enhance my programming skills a
 | 66   | Plus One                                                   | Javascript |    Easy    |
 | 69   | Sqrt(x)                                                    | Javascript |    Easy    |
 | 217  | Contains Duplicate                                         | Javascript |    Easy    |
+| 258  | Add Digits                                                 | Javascript |    Easy    |
 | 344  | Reverse String                                             | Javascript |    Easy    |
 | 242  | Valid Anagram                                              | Javascript |    Easy    |
 | 268  | Missing Number                                             | Javascript |    Easy    |
